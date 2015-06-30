@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GrailsDemoApp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrailsDemoApp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GrailsDemoApp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="GrailsDemoApp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
